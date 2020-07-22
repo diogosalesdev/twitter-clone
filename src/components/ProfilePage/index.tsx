@@ -17,7 +17,7 @@ const ProfilePage: React.FC = () => {
         <Avatar />
       </Banner>
       <ProfileData>
-        {/* <EditButton outlined>Editar Perfil</EditButton> */}
+        <EditButton outlined>Editar Perfil</EditButton>
         <h1>Deia Ribeiro</h1>
         <h2>@deiaribeiro</h2>
         <p>
@@ -42,6 +42,7 @@ const ProfilePage: React.FC = () => {
           </span>
         </Followage>
       </ProfileData>
+      {/* <Feed /> */}
     </Container>
   );
 }
