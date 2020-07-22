@@ -3,7 +3,7 @@ export {
   Notifications,
   Email,
   FavoriteBorder,
-  ExitTopApp,
+  ExitToApp,
   LocationOn,
   Search
 } from 'styled-icons/material-outlined';
